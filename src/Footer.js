@@ -5,10 +5,11 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 const Footer = () => {
     return (
         <div className="footer">
-            <p>All rights reserved © 2023</p>
-            <a href="https://github.com/YourUsername" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faGithub} size="2x" />
+            <a href="https://github.com/sabrinabertol" target="_blank" rel="noopener noreferrer">
+                <FontAwesomeIcon icon={faGithub} size="1x" />
             </a>
+            <p>All rights reserved © 2023</p>
+ 
         </div>
     )
 }
