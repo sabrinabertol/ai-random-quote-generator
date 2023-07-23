@@ -6,9 +6,9 @@ const Footer = () => {
     return (
         <div className="footer">
             <a href="https://github.com/sabrinabertol" target="_blank" rel="noopener noreferrer">
-                <FontAwesomeIcon icon={faGithub} size="1x" />
+                Sabrina Bertol <FontAwesomeIcon icon={faGithub} size="1x" />
             </a>
-            <p>All rights reserved © 2023</p>
+            <p> | All rights reserved © 2023</p>
  
         </div>
     )
