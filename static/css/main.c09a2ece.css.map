@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c09a2ece.css","mappings":"yFAEA,KACE,2BACF,CAEA,EACE,kBACF","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;400;700&display=swap');\n\nbody {\n  font-family: 'Jost', sans-serif;\n}\n\np {\n  padding-bottom: 1em;\n}\n\n"],"names":[],"sourceRoot":""}
