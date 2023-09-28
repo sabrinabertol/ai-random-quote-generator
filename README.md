@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-<img src="./public/aspa.png" alt="Logo" width="40" height="23">
-<br>
-<br>
+<img src="./public/logo.png" alt="Logo" width="40" height="23">
 
 # Quote of the Day
 Your daily dose of inspiration. This is a random quote generator built with ReactJs and ChatGPT4 that can be used as a background. 
